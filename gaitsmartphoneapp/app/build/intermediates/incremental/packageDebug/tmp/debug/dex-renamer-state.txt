@@ -1,0 +1,4 @@
+#Wed Jun 08 22:23:35 AEST 2022
+base.0=F\:\\Desktop\\gaitsmartphoneapp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
